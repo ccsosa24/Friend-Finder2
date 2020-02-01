@@ -1,0 +1,26 @@
+/* #myVideo {
+    position: fixed;
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBrPYRy1s9DTYNK9bsmMslNxVL4qSPdGyC7D9dRJPzgjtZvDq_&s');
+    min-width: 100%;
+    min-height: 100%;
+    
+}  */
+
+#jumbo{
+    color: blue;
+    background:black;
+    text-align: center;
+    
+}
+
+button{
+    float: right;
+    background-image:"https://i.pinimg.com/originals/3e/90/92/3e9092121a2f6e672f232043f1ac8c71.jpg";
+    animation: bouncy 5s infinite linear;
+    position: relative;
+    box-sizing: border-box;
+}
+
+h1{
+    font-size: 30px;
+}
